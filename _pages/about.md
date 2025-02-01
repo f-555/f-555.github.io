@@ -30,7 +30,7 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
   <ul>
       <li>[2025-01] 📃 Paper ODNS-Clustering accepted to <b>WWW 2025</b>.</li>
       <li>[2025-01] 📃 Paper Lemon accepted to <b>USENIX Security 2025</b>. </li>
-      <li>[2024-11] 🏆 I won the National Scholarship 2024</b>. </li>
+      <li>[2024-11] 🏆 I won the National Scholarship 2024. </li>
       <li>[2024-08] 📃 Paper DeMa accepted to <b>Jos</b>. </li>
   </ul>
 </div>
