@@ -40,20 +40,23 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 ## Publications
 
 - Lemon: Network-wide DDoS Detection with Routing-Oblivious Per-flow Measurement \
-  _**Wenhao Wu**, Zhenyu Li, Xilai Liu, Zhaohua Wang, Heng Pan, Guangxing Zhang, Gaogang Xie_  <a href="https://www.usenix.org/conference/usenixsecurity25"><b>USENIX Security 2025</b></a>  <span style="color:OrangeRed">(CCF A)</span>
+  _**Wenhao Wu**, Zhenyu Li, Xilai Liu, Zhaohua Wang, Heng Pan, Guangxing Zhang, Gaogang Xie_,  <a href="https://www.usenix.org/conference/usenixsecurity25"><b>USENIX Security 2025</b></a>  <span style="color:OrangeRed">(CCF A)</span>
 
 
 - ODNS Clustering: Unveiling Client-side Dependency in Open DNS Infrastructure \
-  _**Wenhao Wu**, Zhaohua Wang, Qinxin Li, Zihan Li, Yi Li, Yan Jin, Zhenyu Li_  <a href="https://www2025.thewebconf.org/"><b>WWW 2025</b></a> <span style="color:OrangeRed">(CCF A)</span>
+  _**Wenhao Wu**, Zhaohua Wang, Qinxin Li, Zihan Li, Yi Li, Yan Jin, Zhenyu Li_,  <a href="https://www2025.thewebconf.org/"><b>WWW 2025</b></a> <span style="color:OrangeRed">(CCF A)</span>
 
 - Detecting and Defending Mechanism Against DDoS Attacks in Programmable Data Plane 
-  _**Wenhao Wu**, Leilei Zhang, Heng Pan, Enhan Li, Jianer Zhou, Zhenyu Li_  <a href="http://www.jos.org.cn/"><b>Ruan Jian Xue Bao/Journal of Software (in Chinese)</b></a> <span style="color:OrangeRed">(CCF A for Chinese Journals)</span>
+  _**Wenhao Wu**, Leilei Zhang, Heng Pan, Enhan Li, Jianer Zhou, Zhenyu Li_,  <a href="http://www.jos.org.cn/"><b>Ruan Jian Xue Bao/Journal of Software (in Chinese)</b></a> <span style="color:OrangeRed">(CCF A for Chinese Journals)</span>
 
 - DNS Recursive Resolution Service Security: Threats, Defenses, and Measurements \
-  _Qinxin Li, **Wenhao Wu**, Zhaohua Wang, Zhenyu Li_  <a href="http://crad.ict.ac.cn/"><b>Journal of Computer Research and Development (in Chinese)</b></a> <span style="color:OrangeRed">(CCF A for Chinese Journals)</span>
+  _Qinxin Li, **Wenhao Wu**, Zhaohua Wang, Zhenyu Li_,  <a href="http://crad.ict.ac.cn/"><b>Journal of Computer Research and Development (in Chinese)</b></a> <span style="color:OrangeRed">(CCF A for Chinese Journals)</span>
 
 - Detecting and Defending Mechanism Against DDoS Attacks in Programmable Data Plane \
-  _Li, Enhan, **Wenhao Wu**, Zhaohua Wang, Zhenyu Li, Jianwei Niu_   <a href="https://conferences.sigcomm.org/events/apnet2024/index.php/"><b>APNet</b></a> <span style="color:OrangeRed">(CCF C)</span>
+  _Li, Enhan, **Wenhao Wu**, Zhaohua Wang, Zhenyu Li, Jianwei Niu_,   <a href="https://conferences.sigcomm.org/events/apnet2024/index.php/"><b>APNet</b></a> (CCF-C)
+
+- Joint optimization of time-slot allocation and traffic steering for large-scale deterministic networks \
+  _**Wenhao wu**, Xiaoning Zhang, Jiaming Pan, Yihui Zhou_,  JCN (JCR Q2)
 
 ## Patents
 
