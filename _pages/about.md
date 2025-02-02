@@ -52,7 +52,7 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 - DNS Recursive Resolution Service Security: Threats, Defenses, and Measurements. \
   _Qinxin Li, **Wenhao Wu**, Zhaohua Wang, Zhenyu Li_,  <a href="http://crad.ict.ac.cn/"><b>Journal of Computer Research and Development (in Chinese)</b></a> <span style="color:OrangeRed">(CCF A for Chinese Journals)</span>
 
-- Detecting and Defending Mechanism Against DDoS Attacks in Programmable Data Plane. \
+- SAROS: A Self-Adaptive Routing Oblivious Sampling Method for Network-wide Heavy Hitter Detection. \
   _Li, Enhan, **Wenhao Wu**, Zhaohua Wang, Zhenyu Li, Jianwei Niu_,   <a href="https://conferences.sigcomm.org/events/apnet2024/index.php/"><b>APNet</b></a> (CCF-C)
 
 - Joint optimization of time-slot allocation and traffic steering for large-scale deterministic networks. \
