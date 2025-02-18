@@ -19,7 +19,7 @@ Network Architecture and System Research Group (NAS), Network Research Center \
 
 I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. degree in School of Information and Communication Engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu in 2022.
 
-**Research Interest**: I'm currently interested in `Programmable Network`, `High Performance Network`, `Network Measurement`, and `DNS Security`.
+**Research Interest**: I'm currently interested in `In-Network Computing`, `Active/Passive Measurement`, `DDoS Resiliency`, `Anomaly Detection` and `DNS Security`. I analyze active/passive network measurement results to model network behavior, measure DNS infrastructure, and trace DDoS attacks.
 
 ---
 
