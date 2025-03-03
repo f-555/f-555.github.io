@@ -19,7 +19,7 @@ Network Architecture and System Research Group (NAS), Network Research Center \
 
 I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. degree in School of Information and Communication Engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu in 2022.
 
-**Research Interest**: I'm currently interested in `In-Network Computing`, `Active/Passive Measurement`, `DDoS Resiliency`, `Anomaly Detection` and `DNS Security`. I analyze active/passive network measurement results to model network behavior, measure DNS infrastructure, and trace DDoS attacks.
+**Research Interest**: I'm currently interested in `In-Network Computing`, `Active/Passive Measurement`, `DDoS Resiliency`, `Anomaly Detection` and `DNS Security`. I conduct active/passive network measurements to model network behavior, measure DNS infrastructure, and trace DDoS attacks. My works have been accepted at top conferences (e.g., USENIX Security, WWW). And with the help of industrial collaborators (including CSTNET and CNNIC), my work is bringing benefits to real-world network infrastructures.
 
 ---
 
@@ -104,7 +104,7 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 
 ## Internships
 
-- China Internet Network Information Center Beijing (CNNIC), China, Feb. 2024 - Oct. 2024  
+- China Internet Network Information Center (CNNIC), China, Feb. 2024 - Oct. 2024  
 
 ---
   
