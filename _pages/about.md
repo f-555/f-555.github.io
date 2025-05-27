@@ -39,7 +39,7 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 
 ## Publications
 
--  <button onclick="document.getElementById('lemon-audio').play()" style="background:none;border:none;color:#007bff;cursor:pointer;text-decoration:underline;padding:0;">Lemon</button>: Network-wide DDoS Detection with Routing-Oblivious Per-flow Measurement. \
+-  <button onclick="document.getElementById('lemon-audio').play()" style="all: unset; cursor: pointer; color: inherit;"> Lemon </button>: Network-wide DDoS Detection with Routing-Oblivious Per-flow Measurement. \
   _**Wenhao Wu**, Zhenyu Li, Xilai Liu, Zhaohua Wang, Heng Pan, Guangxing Zhang, Gaogang Xie_,  <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/wu-wenhao"><b>USENIX Security 2025</b></a>  <span style="color:OrangeRed">(CCF A)</span>
 
 - ODNS Clustering: Unveiling Client-side Dependency in Open DNS Infrastructure. \
