@@ -40,6 +40,9 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 
 ## Publications
 
+-  <button onclick="document.getElementById('stray-audio').play()" style="all: unset; cursor: pointer; color: inherit;"> Tracking the Stray Sheep </button>: Understanding DNS Response Manipulation in the Wild. \
+  _**Wenhao Wu**, Zhaohua Wang, Zihan Li, Qinxin Li, Yiming Xia, Chuan Gao, Guangxing Zhang and Zhenyu Li_,  <b>WWW 2026</b></a>  <span style="color:OrangeRed">(CCF A)</span>
+  
 -  <button onclick="document.getElementById('lemon-audio').play()" style="all: unset; cursor: pointer; color: inherit;"> Lemon </button>: Network-wide DDoS Detection with Routing-Oblivious Per-flow Measurement. \
   _**Wenhao Wu**, Zhenyu Li, Xilai Liu, Zhaohua Wang, Heng Pan, Guangxing Zhang, Gaogang Xie_,  <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/wu-wenhao"><b>USENIX Security 2025</b></a>  <span style="color:OrangeRed">(CCF A)</span>
 
@@ -49,6 +52,9 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 - Detecting and Defending Mechanism Against DDoS Attacks in Programmable Data Plane. \
   _**Wenhao Wu**, Leilei Zhang, Heng Pan, Enhan Li, Jianer Zhou, Zhenyu Li_,  <a href="http://www.jos.org.cn/"><b>Ruan Jian Xue Bao/Journal of Software (in Chinese)</b></a> <span style="color:OrangeRed">(CCF A for Chinese Journals)</span>
 
+- Balancing Privacy and Security of QNAME Minimisation. \
+  _Qinxin Li, Zhaohua Wang, **Wenhao Wu**, Zihan Li, Yiming Xia, Chuan Gao and Zhenyu Li_,   <a href="https://conferences.sigcomm.org/events/apnet2024/index.php/"><b>APNet</b></a> (CCF-A)
+  
 - DNS Recursive Resolution Service Security: Threats, Defenses, and Measurements. \
   _Qinxin Li, **Wenhao Wu**, Zhaohua Wang, Zhenyu Li_,  <a href="http://crad.ict.ac.cn/"><b>Journal of Computer Research and Development (in Chinese)</b></a> <span style="color:OrangeRed">(CCF A for Chinese Journals)</span>
 
@@ -95,7 +101,7 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
   
 ## Honors and Awards
 - National Scholarship for Master Students, UCAS, 2024
-- Outstanding B.S. Graduates of Sichuan (四川省优秀本科毕业生), 2022
+- Outstanding B.S. Graduates of Sichuan, 2022
 - Outstanding B.S. Graduates in UESTC, 2022
 - National Scholarship for Undergraduates, 2021
 - National Scholarship for Undergraduates, 2020
@@ -111,5 +117,9 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 <a href="https://info.flagcounter.com/uqni"><img src="https://s01.flagcounter.com/count2/uqni/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 <audio id="lemon-audio">
+  <source src="https://f-555.github.io/files/lemon.mp3" type="audio/mpeg">
+</audio>
+
+<audio id="stray-audio">
   <source src="https://f-555.github.io/files/lemon.mp3" type="audio/mpeg">
 </audio>
