@@ -121,5 +121,5 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 </audio>
 
 <audio id="stray-audio">
-  <source src="https://f-555.github.io/files/lemon.mp3" type="audio/mpeg">
+  <source src="https://f-555.github.io/files/stray.mp3" type="audio/mpeg">
 </audio>
