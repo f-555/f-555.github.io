@@ -59,12 +59,15 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
   _Qinxin Li, **Wenhao Wu**, Zhaohua Wang, Zhenyu Li_,  <a href="http://crad.ict.ac.cn/"><b>Journal of Computer Research and Development (in Chinese)</b></a> <span style="color:OrangeRed">(CCF A for Chinese Journals)</span>
 
 - SAROS: A Self-Adaptive Routing Oblivious Sampling Method for Network-wide Heavy Hitter Detection. \
-  _Li, Enhan, **Wenhao Wu**, Zhaohua Wang, Zhenyu Li, Jianwei Niu_,   <a href="https://conferences.sigcomm.org/events/apnet2024/index.php/"><b>APNet</b></a> (CCF-C)
+  _Enhan Li, **Wenhao Wu**, Zhaohua Wang, Zhenyu Li, Jianwei Niu_,   <a href="https://conferences.sigcomm.org/events/apnet2024/index.php/"><b>APNet</b></a> (CCF-C)
 
 - Joint optimization of time-slot allocation and traffic steering for large-scale deterministic networks. \
   _**Wenhao wu**, Xiaoning Zhang, Jiaming Pan, Yihui Zhou_,  JCN (JCR Q2)
 
 ## Patents
+
+- 一种基于DNS解析路径的域名劫持行为发现方法 CN202511460849.1\
+  _武文浩, 李振宇, 李子涵, 李沁心, 夏一鸣, 高川_
 
 - 一种用于挖掘服务器间依赖关系的系统 CN202410791225.7 \
   _武文浩, 李振宇, 李沁心, 李子涵, 张博宁, 周子涵_
@@ -77,6 +80,9 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
   
 - 一种分布式拒绝服务攻击检测方法. CN202311557906.9 \
   _武文浩, 李振宇_
+
+- 一种DNS递归服务安全风险量化评估系统 CN202511221438.7\
+  _李沁心, 李子涵, 武文浩, 李振宇_
 
 - 一种递归服务器地址的划分方法及装置 CN202411459617.X \
   _张翠玲，何峥, 武文浩, 赵琦, 李帅良_
