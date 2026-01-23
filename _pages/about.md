@@ -53,7 +53,7 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
   _**Wenhao Wu**, Leilei Zhang, Heng Pan, Enhan Li, Jianer Zhou, Zhenyu Li_,  <a href="http://www.jos.org.cn/"><b>Ruan Jian Xue Bao/Journal of Software (in Chinese)</b></a> <span style="color:OrangeRed">(CCF A for Chinese Journals)</span>
 
 - Balancing Privacy and Security of QNAME Minimisation. \
-  _Qinxin Li, Zhaohua Wang, **Wenhao Wu**, Zihan Li, Yiming Xia, Chuan Gao and Zhenyu Li_,   <a href="https://www2026.thewebconf.org/index.html"><b>WWW 2026</b></a> (CCF-A)
+  _Qinxin Li, Zhaohua Wang, **Wenhao Wu**, Zihan Li, Yiming Xia, Chuan Gao and Zhenyu Li_,   <a href="https://www2026.thewebconf.org/index.html"><b>WWW 2026</b></a>  <span style="color:OrangeRed">(CCF A)</span>
   
 - DNS Recursive Resolution Service Security: Threats, Defenses, and Measurements. \
   _Qinxin Li, **Wenhao Wu**, Zhaohua Wang, Zhenyu Li_,  <a href="http://crad.ict.ac.cn/"><b>Journal of Computer Research and Development (in Chinese)</b></a> <span style="color:OrangeRed">(CCF A for Chinese Journals)</span>
