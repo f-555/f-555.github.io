@@ -106,13 +106,14 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
   _潘佳明, 武文浩, 章小宁, 付伟达, 姚雨迎_
   
 ## Honors and Awards
+
+- USENIX Security'25 Student Grant, 2025
 - National Scholarship for Master Students, UCAS, 2024
 - Outstanding B.S. Graduates of Sichuan, 2022
 - Outstanding B.S. Graduates in UESTC, 2022
 - National Scholarship for Undergraduates, 2021
 - National Scholarship for Undergraduates, 2020
 - National Scholarship for Undergraduates, 2019
-
 
 ## Internships
 
