@@ -26,14 +26,21 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 
 ## Recent News
 
-<div style="border:1px solid #000; border-width:2px; border-color:RoyalBlue; background-color:#D2E1FF; color:#424242; border-radius: 8px;">
-  <ul>
-      <li>[2026-01] 📃 Our 2 Papers accepted to <b>WWW 2026</b>.</li>
-      <li>[2025-01] 📃 Paper ODNS-Clustering accepted to <b>WWW 2025</b>.</li>
-      <li>[2025-01] 📃 Paper Lemon accepted to <b>USENIX Security 2025</b>. </li>
-      <li>[2024-11] 🏆 I won the National Scholarship 2024. </li>
-      <li>[2024-08] 📃 Paper DeMa accepted to <b>JoS</b>. </li>
-  </ul>
+<div style="
+  border:1.5px solid RoyalBlue;
+  background-color:#F5F8FF;
+  color:#333;
+  border-radius:10px;
+  padding:10px 18px;
+  margin-bottom:1em;
+">
+<ul>
+  <li><b>[2026-01]</b> 📃 Two papers accepted to <b>WWW 2026</b>.</li>
+  <li><b>[2025-01]</b> 📃 <i>ODNS Clustering</i> accepted to <b>WWW 2025</b>.</li>
+  <li><b>[2025-01]</b> 📃 <i>Lemon</i> accepted to <b>USENIX Security 2025</b>.</li>
+  <li><b>[2024-11]</b> 🏆 Awarded the <b>National Scholarship</b>.</li>
+  <li><b>[2024-08]</b> 📃 <i>DeMa</i> accepted to <b>Journal of Software</b>.</li>
+</ul>
 </div>
 
 
