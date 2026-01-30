@@ -7,6 +7,35 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+<style>
+  .pub-tag {
+    display: inline-block;
+    padding: 3px 8px;
+    margin-right: 8px;
+    border-radius: 4px;
+    font-size: 0.85em;
+    font-weight: 600;
+    color: white;
+    vertical-align: middle;
+    line-height: 1.2;
+  }
+  .pub-tag.pdf { background-color: #16a085; }
+  .pub-tag.poster  { background-color: #e67e22; }
+  .pub-tag.slide  { background-color: #3498db; }
+  
+  #research-interests {
+    margin-top: -1em; /* 关键！用负值抵消上方标题的下边距 */
+  }
+  #research-interests li {
+    line-height: 1.5;   /* 调整列表项内部的行高 */
+    margin-bottom: 0em; /* 调整列表项之间的间距 */
+  }
+</style>
+
 
 ***Ph.D. student ([CV](https://f-555.github.io/files/WuwenhaoCV.pdf))*** \
 Network Architecture and System Research Group (NAS), Network Research Center \
@@ -48,7 +77,7 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 ## Publications
 
 -  <button onclick="document.getElementById('stray-audio').play()" style="all: unset; cursor: pointer; color: inherit;"> Tracking the Stray Sheep </button>: Understanding DNS Response Manipulation in the Wild. \
-  _**Wenhao Wu**, Zhaohua Wang, Zihan Li, Qinxin Li, Yiming Xia, Chuan Gao, Guangxing Zhang and Zhenyu Li_,  <a href="https://www2026.thewebconf.org/index.html"><b>WWW 2026</b></a>  <span style="color:OrangeRed">(CCF A)</span>
+  _**Wenhao Wu**, Zhaohua Wang, Zihan Li, Qinxin Li, Yiming Xia, Chuan Gao, Guangxing Zhang and Zhenyu Li_,  <a href="https://www2026.thewebconf.org/index.html"><b>WWW 2026</b></a>  <span style="color:OrangeRed">(CCF A)</span> <span class="pub-tag pdf">PDF</span>
   
 -  <button onclick="document.getElementById('lemon-audio').play()" style="all: unset; cursor: pointer; color: inherit;"> Lemon </button>: Network-wide DDoS Detection with Routing-Oblivious Per-flow Measurement. \
   _**Wenhao Wu**, Zhenyu Li, Xilai Liu, Zhaohua Wang, Heng Pan, Guangxing Zhang, Gaogang Xie_,  <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/wu-wenhao"><b>USENIX Security 2025</b></a>  <span style="color:OrangeRed">(CCF A)</span>
