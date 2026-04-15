@@ -49,7 +49,7 @@ redirect_from:
   }
   
   .quick-nav a:hover {
-    background-color: #f0f4ff;
+    background-color: #959698;
     border-color: #7aa7ff;
     color: #1a4fff;
   }
@@ -78,20 +78,20 @@ redirect_from:
 </style>
 
 <div class="quick-nav">
-  <a href="#about">About</a> |
-  <a href="#news">News</a> |
-  <a href="#publications">Publications</a> |
-  <a href="#patents">Patents</a> |
-  <a href="#honors">Awards</a> |
+  <a href="#about">About</a> 
+  <a href="#news">News</a> 
+  <a href="#publications">Publications</a> 
+  <a href="#patents">Patents</a> 
+  <a href="#honors">Awards</a> 
   <a href="#internships">Internships</a>
 </div>
 
-<h2 id="about">About Me </h2> 
+
 Network Architecture and System Research Group (NAS), Network Research Center \
 [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/) \
 中国科学院计算技术研究所 · 网络技术研究中心 · 网络体系结构与系统课题组
 
----
+<h2 id="about">About Me </h2> 
 
 I am currently a Ph.D. student (2025 Spring) at ICT, CAS ([CV](https://f-555.github.io/files/WuwenhaoCV.pdf)). I received my B.Eng. degree in School of Information and Communication Engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu in 2022.
 
