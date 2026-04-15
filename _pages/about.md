@@ -13,11 +13,21 @@ redirect_from:
 
 <style>
   .quick-nav {
-    position: sticky;
-    top: 10px;
+    position: fixed;
+    top: 60px;              /* 避开顶部 header */
+    left: 50%;
+    transform: translateX(-50%);
     background: white;
-    padding: 6px 0;
-    z-index: 10;
+    padding: 6px 12px;
+    z-index: 999;
+    border: 1px solid #eee;
+    border-radius: 8px;
+  }
+  .page__content {
+    margin-top: 60px;
+  }
+  h2[id] {
+    scroll-margin-top: 100px;
   }
   
   .quick-nav a {
