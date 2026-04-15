@@ -86,7 +86,7 @@ redirect_from:
   <a href="#internships">Internships</a>
 </div>
 
-<h2 id="about">About Me ([CV](https://f-555.github.io/files/WuwenhaoCV.pdf))</h2>
+<h2 id="about">About Me </h2> ([CV](https://f-555.github.io/files/WuwenhaoCV.pdf))
 Network Architecture and System Research Group (NAS), Network Research Center \
 [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/) \
 中国科学院计算技术研究所 · 网络技术研究中心 · 网络体系结构与系统课题组
