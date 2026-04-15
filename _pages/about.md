@@ -12,6 +12,27 @@ redirect_from:
 
 
 <style>
+  .quick-nav {
+  margin-top: 10px;
+  margin-bottom: 18px;
+  }
+  
+  .quick-nav a {
+    display: inline-block;
+    margin-right: 12px;
+    padding: 4px 10px;
+    font-size: 0.9em;
+    color: #2c3e50;
+    text-decoration: none;
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+  }
+  
+  .quick-nav a:hover {
+    background-color: #f0f4ff;
+    border-color: #7aa7ff;
+    color: #1a4fff;
+  }
   .pub-tag {
     display: inline-block;
     padding: 3px 8px;
@@ -42,7 +63,13 @@ Network Architecture and System Research Group (NAS), Network Research Center \
 [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/) \
 中国科学院计算技术研究所 · 网络技术研究中心 · 网络体系结构与系统课题组
 
-
+<div class="quick-nav">
+  <a href="#news">News</a> |
+  <a href="#publications">Publications</a> |
+  <a href="#patents">Patents</a> |
+  <a href="#honors">Awards</a> |
+  <a href="#internships">Internships</a>
+</div>
 
 ---
 
@@ -53,7 +80,7 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 ---
 
 
-## Recent News
+<h2 id="news">Recent News</h2>
 
 <div style="
   border:1.5px solid RoyalBlue;
@@ -74,7 +101,7 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 
 
 
-## Publications
+<h2 id="publications">Publications</h2>
 
 -  <button onclick="document.getElementById('stray-audio').play()" style="all: unset; cursor: pointer; color: inherit;"> Tracking the Stray Sheep </button>: Understanding DNS Response Manipulation in the Wild. \
   _**Wenhao Wu**, Zhaohua Wang, Zihan Li, Qinxin Li, Yiming Xia, Chuan Gao, Guangxing Zhang and Zhenyu Li_,  <a href="https://www2026.thewebconf.org/index.html"><b>WWW 2026 - Oral</b></a>  <span style="color:OrangeRed">(CCF A) <a href="https://dl.acm.org/doi/pdf/10.1145/3774904.3792405" target="_blank" style="text-decoration: none;"><span class="pub-tag pdf">PDF</span></a>
@@ -100,7 +127,7 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 - Joint optimization of time-slot allocation and traffic steering for large-scale deterministic networks. \
   _**Wenhao wu**, Xiaoning Zhang, Jiaming Pan, Yihui Zhou_,  JCN (JCR Q2)
 
-## Patents
+<h2 id="patents">Patents</h2>
 
 - 一种基于DNS解析路径的域名劫持行为发现方法 CN202511460849.1\
   _武文浩, 李振宇, 李子涵, 李沁心, 夏一鸣, 高川_
@@ -141,7 +168,7 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 - 一种基于天地一体化网络的通信方法 CN202110576226.6 \
   _潘佳明, 武文浩, 章小宁, 付伟达, 姚雨迎_
   
-## Honors and Awards
+<h2 id="honors">Honors and Awards</h2>
 
 - USENIX Security'25 Student Grant, 2025
 - National Scholarship for Master Students, UCAS, 2024
@@ -151,7 +178,7 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. d
 - National Scholarship for Undergraduates, 2020
 - National Scholarship for Undergraduates, 2019
 
-## Internships
+<h2 id="internships">Internships</h2>
 
 - China Internet Network Information Center (CNNIC), China, Feb. 2024 - Oct. 2024  
 
