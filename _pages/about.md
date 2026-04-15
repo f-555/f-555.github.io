@@ -86,14 +86,14 @@ redirect_from:
   <a href="#internships">Internships</a>
 </div>
 
-<h2 id="about">About Me </h2> ([CV](https://f-555.github.io/files/WuwenhaoCV.pdf))
+<h2 id="about">About Me </h2> 
 Network Architecture and System Research Group (NAS), Network Research Center \
 [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/) \
 中国科学院计算技术研究所 · 网络技术研究中心 · 网络体系结构与系统课题组
 
 ---
 
-I am currently a Ph.D. student (2025 Spring) at ICT, CAS. I received my B.Eng. degree in School of Information and Communication Engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu in 2022.
+I am currently a Ph.D. student (2025 Spring) at ICT, CAS ([CV](https://f-555.github.io/files/WuwenhaoCV.pdf)). I received my B.Eng. degree in School of Information and Communication Engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu in 2022.
 
 **Research Interest**: I'm currently interested in `In-Network Computing`, `Active/Passive Measurement`, `DDoS Resiliency`, and `DNS infrastructure`. I conduct active/passive network measurements to model network behavior, measure DNS infrastructure, and trace DDoS attacks. My works have been accepted at top conferences (e.g., USENIX Security, WWW). And with the help of industrial collaborators (including CSTNET and CNNIC), my work is bringing benefits to real-world network infrastructures.
 
