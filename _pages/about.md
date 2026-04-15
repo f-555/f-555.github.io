@@ -14,20 +14,13 @@ redirect_from:
 <style>
   .quick-nav {
     position: fixed;
-    top: 60px;              /* 避开顶部 header */
-    left: 50%;
-    transform: translateX(-50%);
-    background: white;
-    padding: 6px 12px;
+    top: 120px;              /* 从标题下方开始 */
+    right: 40px;             /* 贴右边 */
+    display: flex;
+    flex-direction: column;  /* 竖排 */
+    align-items: flex-end;   /* 右对齐 */
+    gap: 8px;
     z-index: 999;
-    border: 1px solid #eee;
-    border-radius: 8px;
-  }
-  .page__content {
-    margin-top: 60px;
-  }
-  h2[id] {
-    scroll-margin-top: 100px;
   }
   
   .quick-nav a {
