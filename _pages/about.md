@@ -78,7 +78,7 @@ redirect_from:
 </style>
 
 <div class="quick-nav">
-  <a href="#about">News</a> |
+  <a href="#about">About</a> |
   <a href="#news">News</a> |
   <a href="#publications">Publications</a> |
   <a href="#patents">Patents</a> |
