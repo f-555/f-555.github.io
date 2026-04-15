@@ -13,8 +13,11 @@ redirect_from:
 
 <style>
   .quick-nav {
-  margin-top: 10px;
-  margin-bottom: 18px;
+    position: sticky;
+    top: 10px;
+    background: white;
+    padding: 6px 0;
+    z-index: 10;
   }
   
   .quick-nav a {
