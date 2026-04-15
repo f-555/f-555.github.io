@@ -24,14 +24,28 @@ redirect_from:
   }
   
   .quick-nav a {
-    display: inline-block;
-    margin-right: 12px;
-    padding: 4px 10px;
-    font-size: 0.9em;
-    color: #2c3e50;
+    display: block;
+    width: 140px;            /* 关键：统一宽度 */
+    text-align: right;       /* 右对齐 */
+    font-size: 0.95em;
+    font-weight: 600;        /* 加粗 */
+    color: #555;
     text-decoration: none;
-    border: 1px solid #d0d7de;
-    border-radius: 6px;
+    padding: 2px 0;
+    transition: all 0.15s ease;
+  }
+  
+  .quick-nav a:hover {
+    color: #1a4fff;
+  }
+
+  .quick-nav a.active {
+    color: #1a4fff;
+    border-right: 2px solid #1a4fff;
+    padding-right: 6px;
+  }
+  .quick-nav a.active {
+    color: #1a4fff;
   }
   
   .quick-nav a:hover {
