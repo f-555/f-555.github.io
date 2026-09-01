@@ -137,6 +137,10 @@ I am currently a Ph.D. student (2025 Spring) at ICT, CAS ([CV](https://f-555.git
 
 - Balancing Privacy and Security of QNAME Minimisation. \
   _Qinxin Li, Zhaohua Wang, **Wenhao Wu**, Zihan Li, Yiming Xia, Chuan Gao and Zhenyu Li_,   <a href="https://dl.acm.org/doi/10.1145/3774904.3792614"><b>WWW 2026</b></a>  <span style="color:OrangeRed">(CCF A)</span>
+
+- Taming DNS Responses: A Measurement Study of Response Size and Its Impact. \
+  _Zihan Li, **Wenhao Wu**, Zhaohua Wang, Yu Tian, Chuan Gao, Qinxin Li, Yiming Xia, Zhenyu Li_,  ACM IMC 2026
+  <span style="color:OrangeRed">(CCF B / THCPL-A)</span>
   
 - DNS Recursive Resolution Service Security: Threats, Defenses, and Measurements. \
   _Qinxin Li, **Wenhao Wu**, Zhaohua Wang, Zhenyu Li_,  <a href="http://crad.ict.ac.cn/"><b>Journal of Computer Research and Development (in Chinese)</b></a> <span style="color:OrangeRed">(CCF A for Chinese Journals)</span>
